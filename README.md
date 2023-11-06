@@ -17,7 +17,6 @@ Visual components and Python
 
 
 ## Experiment:
-![280518349-c2000d27-28d6-4470-9a0b-0a2eef0e294a](https://github.com/Yuvakrishna0/Open-Jacson-Networks/assets/117915037/892f0387-dd7a-4ee5-999d-9816cc246c67)
 
 ![280518362-64cb697f-7bd4-4380-82a0-7c67557a93b9](https://github.com/Yuvakrishna0/Open-Jacson-Networks/assets/117915037/0c89c14e-08ee-4078-bc2f-b89964695092)
 
